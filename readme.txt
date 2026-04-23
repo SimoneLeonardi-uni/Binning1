@@ -32,8 +32,7 @@ I programmi si aspettano un file immagine chiamato **`input.jpg`** nella stessa 
 
 ---
 
-## Compilazione
+## Compilazione e esecuzione benchmark
 
 ```bash
 make
-elaborazione per avere i grafici della singola run
